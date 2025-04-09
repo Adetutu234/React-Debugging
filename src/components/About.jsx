@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import Button from './Button'
 
+// ABOUT SECTION
 const About = () => {
     const [name ,setName] =useState("ADETUTU")
     const handleName = () => {

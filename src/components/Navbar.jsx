@@ -1,8 +1,8 @@
 import React from 'react'
 import Button from './Button'
 
+// NAVBAR SECTION
 const Navbar = () => {
-
   return (
     <div className='flex p-3 justify-between bg-slate-600/20 font-semibold'>
       <div>
